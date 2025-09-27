@@ -39,7 +39,7 @@ A console-based voting application with administrative controls, persistent data
 
 ## Installation
 ```bash
-git clone https://github.com/Cipherex/Voting-management-system
+git clone https://github.com/codev-aryan/Voting-management-system
 
 ```
 ```bash
